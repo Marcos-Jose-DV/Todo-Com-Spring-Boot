@@ -19,6 +19,6 @@ public class SpringdocConfig {
 	              .license(new License().name("Apache 2.0").url("http://springdoc.org")))
 	              .externalDocs(new ExternalDocumentation()
 	              .description("Link do Repositório da Aplicação - APIRestful Documentation")
-	              .url("https://github.com/endereco-repositorio-api"));
+	              .url("https://github.com/Marcos-Jose-DV/Todo-Com-Spring-Boot.git"));
 	  }
 }
